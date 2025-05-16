@@ -13,7 +13,15 @@ GroceryGauge is a web application that helps users track inflation and price cha
 The site pulls product data from the **Kroger Products API** and uses a forecasting model to predict prices for the next few days.
 
 ---
+## My Role
 
+As a **Frontend Developer**, I was responsible for:
+- Implementing the search functionality and dynamic product rendering  
+- Building reusable components such as `ProductCard`, `CartItem`, and `TopBar`  
+- Connecting React components to backend API endpoints for live data updates  
+- Creating the cart system to simulate total grocery costs  
+- Integrating price alert functionality and UI interaction
+---
 ## Features
 
 - Browse Kroger grocery items with regularly updated prices  
