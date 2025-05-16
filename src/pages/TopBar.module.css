@@ -1,0 +1,79 @@
+
+/* Main container */
+.topBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #c8f3b6;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  /* Left section */
+  .leftSection {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  /* Right section */
+  .rightSection {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+  
+  /* Navigation */
+  .navigation {
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .tab {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    padding: 0.5rem 0;
+  }
+  
+  .activeTab {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+  }
+  
+  /* Search form */
+  .searchForm {
+    display: flex;
+    align-items: center;
+  }
+  
+  .searchInput {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 0.5rem;
+  }
+  
+  .searchButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+  }
+  
+  .searchIcon {
+    width: 20px;
+    height: 20px;
+  }
+
+  .logo {
+    width: 60px;
+    height: auto;
+    margin-right: 10px;
+  }

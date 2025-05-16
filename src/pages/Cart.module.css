@@ -1,0 +1,143 @@
+/* Cart.module.css */
+
+
+/* Overall container for the cart page */
+.cartContainer {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #F8F7F2; /* offwhite */
+    color: #2A5D34; /* green - adjust as desired */
+    font-family: 'Arial', sans-serif;
+  }
+ 
+  /* Page heading styling */
+  .cartHeading {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #000000;
+  }
+ 
+  /* Message shown when cart is empty */
+  .emptyMessage {
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 40px 0;
+  }
+ 
+  /* Container for the list of cart items */
+  .cartItems {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+ 
+  /* Individual cart item container */
+  .cartItem {
+    display: flex;
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 8px;
+    padding: 15px;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+ 
+  /* Styling for the product image */
+  .itemImage {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+ 
+  /* Container for the textual item info */
+  .itemInfo {
+    flex: 1;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+  }
+ 
+  /* Product title styling */
+  .itemTitle {
+    font-size: 1.2rem;
+    margin: 0;
+    font-weight: bold;
+    color: #2A5D34;
+  }
+ 
+  /* Price styling for individual product */
+  .itemPrice {
+    font-size: 1rem;
+    margin: 5px 0;
+    color: #2A5D34;
+  }
+ 
+  /* Subtotal for the item (price x quantity) */
+  .itemSubtotal {
+    font-size: 1rem;
+    color: #2A5D34;
+    margin-top: 5px;
+  }
+ 
+  /* Overall cart total container, typically at the bottom */
+  .cartTotal {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #2A5D34;
+  }
+ 
+  /* Button styling for checkout */
+  .checkoutButton {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #2A5D34;  /* Green */
+    color: #F8F7F2;  /* Offwhite text */
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+  }
+ 
+  .checkoutButton:hover {
+    background-color: #224F29; /* Slightly darker green on hover */
+  }
+ 
+  /* Button styling for removing an item */
+  .removeButton {
+    background-color: #E7E7E7;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 5px;
+  }
+ 
+  .removeButton:hover {
+    background-color: #ccc;
+  }  
+  /* Container for quantity input */
+.quantityContainer {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+  }
+ 
+  /* Style for the quantity input field */
+  .quantityInput {
+    width: 50px;
+    padding: 4px;
+    margin-left: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+  }
