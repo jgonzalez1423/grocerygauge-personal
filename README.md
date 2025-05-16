@@ -59,7 +59,8 @@ As a **Frontend Developer**, I was responsible for:
 
 ---
 # Technical Architecture 
-[image]
+![image](https://github.com/user-attachments/assets/f14802ea-1fdf-46f9-9f6f-5315300c62be)
+
 ---
 # Developers 
 - Jennifer Gonzalez (Frontend): Worked on Website Design and connecting backend API calls to Frontend design
