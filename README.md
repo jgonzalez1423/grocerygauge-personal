@@ -1,3 +1,4 @@
+> ⚠️ **Note:** This is my personal copy of a group project originally developed for our Software Design class. This version highlights my individual contributions to the frontend (React) portion of the app, including search, cart, and price alert functionality. My work mostly relies under the folder /src. 
 
 # Introduction
 
