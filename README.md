@@ -127,4 +127,6 @@ As a **Frontend Developer**, I was responsible for:
 ![Product Page](https://media.discordapp.net/attachments/1287663401283223555/1371687965868294292/Screenshot_2025-05-12_221036.png?ex=68240b77&is=6822b9f7&hm=dc1e112301c63cb79a472c05a2d2935e5e3244c4c4d08e507383298f28600dc1&=&format=webp&quality=lossless&width=1420&height=813)
 ![Cart Page](https://media.discordapp.net/attachments/1287663401283223555/1371687966296244225/Screenshot_2025-05-12_221112.png?ex=68240b77&is=6822b9f7&hm=385ae3145e7f549c242a231a6fe7a19c2634151ba71ce770e63245f1bf064cef&=&format=webp&quality=lossless&width=1414&height=813)
 ![About Us Page](https://media.discordapp.net/attachments/1287663401283223555/1371687966619078790/Screenshot_2025-05-12_221139.png?ex=68240b77&is=6822b9f7&hm=15d0ca5fea80d580a75e16aecbc1c06fe4f11f31ce0f7ed2ae9009611c8df168&=&format=webp&quality=lossless&width=1410&height=813)
+![image](https://github.com/user-attachments/assets/3243bc3e-b670-40bf-84c3-8511262a5ede)
+
 
